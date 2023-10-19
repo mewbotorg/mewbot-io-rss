@@ -3,3 +3,8 @@
 # SPDX-License-Identifier: BSD-2-Clause
 
 mewbot>=0.0.3
+mewbot-core>=0.0.3
+mewbot-api>=0.0.3
+
+# RSS reader
+feedparser~=6.0.10
