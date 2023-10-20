@@ -90,7 +90,7 @@ setuptools.setup(
 
     python_requires=">=3.10",  # Might be relaxed later
 
-    version=get_version('src/mewbot/io/rss'),
+    version=get_version('src/mewbot/io/rss/__init__.py'),
 
     install_requires=requirements,
 
