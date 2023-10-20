@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2023 Mewbot Developers <mewbot@quicksilver.london>
 #
-# SPDX-License-Identifier: BSD-2-Clause
+# SPDX-License-Identifier: MIT
 
 """
 Events which your IOConfig can produce/consume.
