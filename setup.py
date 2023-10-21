@@ -107,6 +107,8 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/ajCameron/mewbot-rss/issues",
     },
 
+    package_data={"": ["py.typed"]},
+
     description='A plugin which lets mewbot consume RSS feeds.',
     long_description=long_description,
     long_description_content_type="text/markdown",
