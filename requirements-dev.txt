@@ -2,5 +2,5 @@
 #
 # SPDX-License-Identifier: BSD-2-Clause
 
-mewbot-dev-tools~=0.0.15
+mewbot-dev-tools~=0.0.20
 mewbot-test~=0.0.3
