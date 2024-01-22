@@ -4,5 +4,5 @@
 
 -r requirements.txt
 
-mewbot-dev-tools~=0.0.15
+mewbot-dev-tools~=0.0.20
 mewbot-test~=0.0.3
