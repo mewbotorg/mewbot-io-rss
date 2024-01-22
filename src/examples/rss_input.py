@@ -19,6 +19,7 @@ from typing import Any, AsyncIterable, Dict, Set, Type
 
 from mewbot.api.v1 import Action
 from mewbot.core import InputEvent, OutputEvent
+
 from mewbot.io.rss import RSSInputEvent
 
 

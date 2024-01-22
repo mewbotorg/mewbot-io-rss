@@ -710,3 +710,6 @@ class RSSInputEventFactory:
             entry_pubdate = PUBDATE_NOT_SET_STR
 
         return str(entry_pubdate)
+
+
+__all__ = ["RSSIO", "RSSInputEvent"]
